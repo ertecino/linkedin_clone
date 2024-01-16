@@ -1,0 +1,1 @@
+<img src="[http://url/to/img.png](https://github.com/ertecino/linkedin_clone/blob/main/linkedin.png)https://github.com/ertecino/linkedin_clone/blob/main/linkedin.png" alt="alt text" width="480" height="600">
